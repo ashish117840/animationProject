@@ -1,3 +1,4 @@
+//add new feature - form
 document.getElementById("animateBtn").addEventListener("click", function() {
   const dynamicText = document.getElementById("dynamicText");
   dynamicText.textContent = "You clicked the button!";
